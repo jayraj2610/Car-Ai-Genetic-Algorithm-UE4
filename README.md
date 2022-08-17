@@ -23,7 +23,3 @@ Simulation controls are:
 - 'Tab' skips to the next specie in generation
 
 Simulation results are saved each time the generation ends but before selection and mutation.
-
-#### Got questions, suggestions etc?
-
-Hit me up on Twitter @dunenkoff.
